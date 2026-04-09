@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- SEO Title -->
+    <title>Riyan Studio | Best Photography & Videography Studio</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Riyan Studio offers professional photography, videography, wedding shoots, and editing services. Capture your special moments with us.">
+    <meta name="keywords" content="Riyan Studio, Photography, Videography, Wedding Photography, Studio Near Me, Photo Studio, Professional Photographer, Video Editing">
+    <meta name="author" content="Riyan Studio">
+
+    <!-- Open Graph (Social Media SEO) -->
+    <meta property="og:title" content="Riyan Studio">
+    <meta property="og:description" content="Professional photography and videography services.">
+    <meta property="og:type" content="website">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        header {
+            background-color: #111;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #333;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        nav a {
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: #ff9800;
+        }
+
+        .hero {
+            text-align: center;
+            padding: 50px 20px;
+            background: url('https://images.unsplash.com/photo-1516035069371-29a1b244cc32') no-repeat center/cover;
+            color: white;
+        }
+
+        .hero h1 {
+            font-size: 40px;
+        }
+
+        .section {
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .services {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            background: white;
+            margin: 10px;
+            padding: 20px;
+            width: 250px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+
+        /* Mobile Friendly */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 28px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Riyan Studio</h1>
+    <p>Professional Photography & Videography</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Services</a>
+    <a href="#">Gallery</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section class="hero">
+    <h1>Capture Your Beautiful Moments</h1>
+    <p>Wedding | Events | Portraits | Editing</p>
+</section>
+
+<section class="section">
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="card">
+            <h3>Wedding Photography</h3>
+            <p>Capture your special day with stunning photos.</p>
+        </div>
+
+        <div class="card">
+            <h3>Videography</h3>
+            <p>High-quality video shoots for all events.</p>
+        </div>
+
+        <div class="card">
+            <h3>Photo Editing</h3>
+            <p>Professional retouching and editing services.</p>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <h2>Why Choose Riyan Studio?</h2>
+    <p>We provide high-quality photography services with creativity and passion. Our goal is to make your memories unforgettable.</p>
+</section>
+
+<section class="section">
+    <h2>Contact Us</h2>
+    <p>📞 Phone: +91 9876543210</p>
+    <p>📍 Location: Your City</p>
+</section>
+
+<footer>
+    <p>© 2026 Riyan Studio | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
